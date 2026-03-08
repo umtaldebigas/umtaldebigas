@@ -1,3 +1,5 @@
 # Sobre mim
 
-### Estudante de Análise e Desenvolvimento de Sistemas, Atualmente no primeiro semestre
+### Estudante de Análise e Desenvolvimento de Sistemas, Atualmente no primeiro semestre.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="105"/>
