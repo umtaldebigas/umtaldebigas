@@ -12,5 +12,5 @@
 -🚀🌙 Em busca do meu primeiro projeto completo
 
 
-## Tecnologias & Ferramentas:
+## Linguagens e Tecnologias:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="105"/>
