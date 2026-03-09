@@ -1,6 +1,6 @@
 # Sobre mim
 
-### Me chamo Gabriel Oliveira Almeida,meu apelido é Bigas por algum motivo. Tenho 18 anos,e no momento estou me graduando no curso Análise e Desenvolvimento de Sistemas na UNIP. Desde cedo me vi atraído pela tecnologia, e hoje esse interesse se traduz no universo do desenvolvimento, com foco crescente em backend e na construção de sistemas que realmente funcionam por baixo dos panos.
+### Me chamo Gabriel Oliveira Almeida, meu apelido é Bigas por algum motivo. Tenho 18 anos,e no momento estou me graduando no curso Análise e Desenvolvimento de Sistemas na UNIP. Desde cedo me vi atraído pela tecnologia, e hoje esse interesse se traduz no universo do desenvolvimento, com foco crescente em backend e na construção de sistemas que realmente funcionam por baixo dos panos.
 ### "Sou o intervalo entre quem sou hoje e quem ainda vou me tornar."
 
 -🧑‍🎓Graduando em Análise e Desenvolvimento de Sistemas (1/5)
