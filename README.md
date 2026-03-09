@@ -4,9 +4,12 @@
 ### "Sou o intervalo entre quem sou hoje e quem ainda vou me tornar."
 
 -🧑‍🎓Graduando em Análise e Desenvolvimento de Sistemas (1/5)
--🐍 ⚙️ Estudando Python e lógica de programação
--🌐 💻 Interessado em desenvolvimento web e automação
--🚀 🌙 Em busca do meu primeiro projeto completo
+
+-🐍⚙️ Estudando Python e lógica de programação
+
+-🌐💻 Interessado em desenvolvimento web e automação
+
+-🚀🌙 Em busca do meu primeiro projeto completo
 
 
 
