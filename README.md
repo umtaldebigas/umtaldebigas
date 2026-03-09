@@ -11,7 +11,7 @@
 
 -🚀🌙 Em busca do meu primeiro projeto completo
 
-![Bigas GitHub stats](https://github-readme-stats.vercel.app/api?username=umtaldebigas&show_icons=true&theme=radical)
+![Bigas GitHub stats](https://github-readme-stats.vercel.app/api?username=umtaldebigas&show_icons=true)
 
 
 ## Tecnologias & Ferramentas:
